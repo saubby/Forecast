@@ -1,4 +1,4 @@
-# 06 Server-Side APIs: Weather Dashboard
+# Weather Dashboard
 
 ## Your Task
 
@@ -32,3 +32,4 @@ THEN I am again presented with current and future conditions for that city
 
 ## Deployed Link
 https://saubby.github.io/Forecast/
+https://github.com/saubby/Forecast
